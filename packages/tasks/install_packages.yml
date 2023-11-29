@@ -1,0 +1,6 @@
+- name: install_packages
+  apt:
+    name:
+      - nano
+      - htop
+      - python3-pip
